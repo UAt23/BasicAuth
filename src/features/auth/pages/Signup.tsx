@@ -12,7 +12,7 @@ const Signup: React.FC = () => {
 			</div>
 			{/* Right */}
 			<div className="col-start-2 flex flex-1 items-start self-stretch">
-				<img src="../../../../public/img/sign-up.jpg" alt="Sign In Photo" className="flex-1 self-stretch object-cover" />
+				<img src="/img/sign-up.jpg" alt="Sign In Photo" className="flex-1 self-stretch object-cover" />
 			</div>
 		</div>
 	</Wrapper>
